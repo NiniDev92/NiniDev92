@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nini
 
-![Banner Gatitos](https://github.com/nini-dev/nini-dev/blob/main/gatitos.gif?raw=true) 
+![Gatitos Cute](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 🌟 Sobre mí
 Soy **desarrolladora de apps Android Trainee**, amante de los gatos 🐾 y apasionada por la tecnología. Me encanta **aprender nuevas herramientas** y crear proyectos **útiles y divertidos**.
